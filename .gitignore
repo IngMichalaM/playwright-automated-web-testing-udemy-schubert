@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/tests/example.spec.js
+/tests/product_page_add_item.spec.js
+code_changes (1).html
+code_changes.html
+playaround_func.js
+shopping-store-windows-386.exe
+tests-examples
+.idea
+.env
+
